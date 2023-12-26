@@ -21,7 +21,7 @@ window.onscroll = () =>{
 
 // change date to set till deadline
 
-let countDate = new Date('December 15, 2023 00:00:00').getTime();
+let countDate = new Date('December 15, 2024 00:00:00').getTime();
 
 function CountDown(){
 
